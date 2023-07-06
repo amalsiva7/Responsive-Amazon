@@ -12,10 +12,9 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 60px;
 }
 
-.amazon-header-left-section {
+/* .amazon-header-left-section {
   width: 180px;
 }
 
@@ -23,7 +22,7 @@
   .amazon-header-left-section {
     width: unset;
   }
-}
+} */
 
 .header-link {
   display: inline-block;
